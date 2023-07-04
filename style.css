@@ -11,7 +11,8 @@ h1{
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
 }
-@media only screen and (min-width: 500px) {
+
+@media only screen and (min-width: 600px) {
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
     body{
@@ -234,7 +235,7 @@ h1{
     
 
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 600px){
     .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
     body{
